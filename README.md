@@ -2,7 +2,7 @@
 
 [![Excel](https://img.shields.io/badge/Excel-4CAF50?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) 
 [![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/) 
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-008080?style=for-the-badge&logo=apache-spark&logoColor=white)]
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-008080?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ---
 
