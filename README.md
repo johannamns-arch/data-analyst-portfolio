@@ -42,8 +42,8 @@ Hi! I’m Johanna, a Data Analyst with experience in Excel and Google Sheets. I 
   - Local Key Accounts (LKA) contributed 40% of monthly sales  
   - Highlighted top-performing products for restocking  
 - **Dashboard Preview:**  
-![Sales Dashboard](images/sales_dashboard.png)  
-- **Project Link:** [View Repository](https://github.com/yourusername/Sales-Performance-Analysis)  
+![Sales Dashboard](sales_dashboard.png)
+- **Project Link:** [View Repository](https://docs.google.com/spreadsheets/d/1bHvHOrjX5O6oUQdnfRVh8jyzuN1duIoweWR0e6FTYQw/edit?usp=sharing)  
 
 ---
 
