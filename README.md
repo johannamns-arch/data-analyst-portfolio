@@ -1,41 +1,53 @@
 # Johanna | Data Analyst Portfolio
 
-Welcome to my data analytics portfolio.  
-I specialize in Excel dashboard development, operational reporting, and data analysis.
+[![Excel](https://img.shields.io/badge/Excel-4CAF50?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) 
+[![Google Sheets](https://img.shields.io/badge/Google_Sheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)](https://www.google.com/sheets/about/) 
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-008080?style=for-the-badge&logo=apache-spark&logoColor=white)]
+
+---
+
+## About Me
+Hi! I’m Johanna, a Data Analyst with experience in Excel and Google Sheets. I specialize in **operational dashboards, KPI tracking, and performance analysis**, helping teams turn raw data into actionable insights.
+
+---
 
 ## Skills
-- Excel
-- Google Sheets
-- Data Cleaning
-- Data Visualization
-- Pivot Tables
-- Dashboard Development
+- **Data Analysis & Cleaning:** Excel, Google Sheets, Pivot Tables, Formulas  
+- **Data Visualization:** Charts, Conditional Formatting, Dashboards  
+- **Reporting:** KPI Dashboards, Staff Flow & Attendance Analysis  
+- **Other Tools:** Basic SQL, Google Data Studio (optional)  
+
+---
 
 ## Projects
 
 ### 1. Operations Performance Dashboard
-Tools: Excel
-
-This dashboard monitors operational KPIs including:
-- Attendance rate
-- Fill rate
-- Staff flow
-- DTR compliance
-
-Insights:
-- Attendance compliance improved by 12%
-- Fill rate averaged 93% across regions
-
-[View Project](link_here)
+- **Objective:** Track DTR, liquidation, attendance, fill rate, and staff flow for Apex Manning Inc.  
+- **Tools Used:** Excel, Google Sheets, Pivot Tables, Conditional Formatting, Charts  
+- **Insights:**
+  - Attendance improved by 10% in March  
+  - Liquidation rate highest in Region 2  
+  - Staff flow peaks at start and end of month  
+- **Dashboard Preview:**  
+![Operations Dashboard](images/operations_dashboard.png)  
+- **Project Link:** [View Repository](https://github.com/yourusername/Operational-Dashboard)  
 
 ---
 
 ### 2. Sales Performance Analysis
-Tools: Excel
+- **Objective:** Analyze sales performance across regions and key accounts to identify growth opportunities  
+- **Tools Used:** Excel, Google Sheets, Formulas, Charts  
+- **Insights:**
+  - NCR had the highest fill rate  
+  - Local Key Accounts (LKA) contributed 40% of monthly sales  
+  - Highlighted top-performing products for restocking  
+- **Dashboard Preview:**  
+![Sales Dashboard](images/sales_dashboard.png)  
+- **Project Link:** [View Repository](https://github.com/yourusername/Sales-Performance-Analysis)  
 
-This analysis explores sales performance trends including:
-- Monthly revenue
-- Top-selling products
-- Regional performance
+---
 
-[View Project](link_here)
+## How to Use This Portfolio
+1. Click on the **project links** to explore the dashboards and datasets.  
+2. Screenshots provide a quick preview of the analysis and insights.  
+3. Sample datasets are included in each repository for testing.
